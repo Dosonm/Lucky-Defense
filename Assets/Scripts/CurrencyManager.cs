@@ -119,7 +119,6 @@ public class CurrencyManager : MonoBehaviour
     }
     private void PlayGoldPopup(int amount)
     {
-        // 위치는 Play() 안에서 anchoredPosition으로 다시 잡히므로 여기서는 의미가 없다.
         RewardPopupEffect popup = PoolManager.Instance.Get<RewardPopupEffect>(
             rewardPopupPrefab.gameObject, Vector3.zero, Quaternion.identity);
 

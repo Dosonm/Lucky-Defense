@@ -48,6 +48,5 @@ public class MonsterStat : MonoBehaviour
 
         isDead = true;
         onDeath?.Invoke(gameObject);
-        //Death();
     }
 }

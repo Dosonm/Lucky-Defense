@@ -107,7 +107,6 @@ public class GridCell : MonoBehaviour, IPointerDownHandler
         if (border == null)
             return;
 
-        //Color color = IsEmpty ? Color.green : (IsFull ? Color.red : Color.yellow);
         Color color = new Color(0.1f, 0.45f, 0.15f, .5f);
         border.startColor = border.endColor = color;
         border.enabled = visible;

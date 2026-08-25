@@ -130,7 +130,6 @@ public class Summons : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, ID
 
         monsterLayer = LayerMask.GetMask("Monster");
 
-        //에디터에서 직접 놓은 유닛을 그리드에 넣음
         if (CurrentCell == null)
         {
             GridCell nearestCell = gridManager.GetNearestCell(transform.position);
@@ -249,7 +248,6 @@ public class Summons : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, ID
         rangeIndicator.enabled = visible;
     }
 
-    // 풀에서 다시 꺼내 쓸 때 이전 상태가 남아있지 않도록 초기화.
     public void ResetForReuse()
     {
         transform.DOKill();

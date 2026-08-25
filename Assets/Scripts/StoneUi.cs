@@ -12,7 +12,6 @@ public class StoneUi : MonoBehaviour
     private void OnEnable()
     {
         UpdateStoneText(CurrencyManager.Instance.SummonStone);
-        //UpdateGachaButtons();
 
         CurrencyManager.Instance.OnSummonStoneChanged += UpdateStoneText;
     }
@@ -27,16 +26,4 @@ public class StoneUi : MonoBehaviour
     {
         stoneCountTmp.text = $"{stone}";
     }
-
-    /* private void UpdateGachaButtons()
-    {
-        bool hasRoom = CurrencyManager.Instance.Population < CurrencyManager.Instance.maxPopulation;
-
-        if (rareGachaButton != null)
-            rareGachaButton.interactable = hasRoom;
-        if (heroGachaButton != null)
-            heroGachaButton.interactable = hasRoom;
-        if (legendGachaButton != null)
-            legendGachaButton.interactable = hasRoom;
-    } */
 }

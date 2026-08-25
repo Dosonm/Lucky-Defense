@@ -5,15 +5,15 @@ using UnityEngine;
 
 public class DamageTextManager : MonoBehaviour
 {
-    public static DamageTextManager instance; // 싱글톤 인스턴스
+    public static DamageTextManager instance; 
     public Canvas canvas;
 
     [Header("Prefabs")]
-    [SerializeField] GameObject damageTextPrefab; // 일반 데미지 텍스트
-    [SerializeField] GameObject damageTextPrefabCrit; // 크리티컬 데미지 텍스트
+    [SerializeField] GameObject damageTextPrefab; 
+    [SerializeField] GameObject damageTextPrefabCrit; 
 
     [Header("Settings")]
-    float textSpacing = .1f; // 텍스트 간 간격
+    float textSpacing = .1f; 
     
     private List<GameObject> activeDamageTexts = new List<GameObject>(); 
 
@@ -24,10 +24,8 @@ public class DamageTextManager : MonoBehaviour
 
     private void Awake()
     {
-        // 최대 트윈 1000개, 시퀀스 100개까지 수용 가능하도록 설정
         DOTween.SetTweensCapacity(1000, 100);
         
-        // 가비지 컬렉션 최적화를 위해 트윈 재사용 설정
         DOTween.defaultRecyclable = true;
 
         if (instance == null)
@@ -87,9 +85,6 @@ public class DamageTextManager : MonoBehaviour
     }
     #endregion
 
-    /// <summary>
-    /// 실제 데미지 텍스트를 생성하는 함수
-    /// </summary>
     public void CreateDamageText(Vector2 position, int damage, bool isCritical)
     {
         MoveExistingTextsUp();
@@ -103,7 +98,7 @@ public class DamageTextManager : MonoBehaviour
         {
             dmgScript.GetInfoDmg(damage, isCritical);
             activeDamageTexts.Add(newText);
-            dmgScript.Activate(); // 여기서 DOTween Animation 실행
+            dmgScript.Activate(); 
         }
     }
     private void MoveExistingTextsUp()
@@ -122,26 +117,4 @@ public class DamageTextManager : MonoBehaviour
             obj.transform.DOMoveY(obj.transform.position.y + textSpacing, 0.1f).SetEase(Ease.OutQuad);
         }
     }
-
-    /// <summary>
-    /// 일반 텍스트 생성 (풀링 미적용 버전 - 필요시 수정 가능)
-    /// </summary>
-    /* public void creatText(Vector2 position, string text)
-    {
-        GameObject newText = Instantiate(damageTextPrefab, canvas.transform);
-        newText.transform.position = position;
-
-        DamageText dmgScript = newText.GetComponent<DamageText>();
-        dmgScript.GetInfoText(text, true);
-        activeDamageTexts.Add(newText);
-        dmgScript.Activate();
-    }
-
-    public void RemoveText(GameObject text)
-    {
-        if (activeDamageTexts.Contains(text))
-        {
-            activeDamageTexts.Remove(text);
-        }
-    } */
 }
