@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1d28cc2824b2551408f9984847b9bb92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283422
+  packageName: 2D VScrolling Battle Backgrounds Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/2DVScrollingBattleBG/00_Demo/Script/VScrollBGDemoPlayCtrl.cs
+  uploadId: 662225

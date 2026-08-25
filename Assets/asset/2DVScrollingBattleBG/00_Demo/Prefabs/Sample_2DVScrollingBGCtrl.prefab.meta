@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 941a693c09a48db4f807e2596b02802e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283422
+  packageName: 2D VScrolling Battle Backgrounds Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/2DVScrollingBattleBG/00_Demo/Prefabs/Sample_2DVScrollingBGCtrl.prefab
+  uploadId: 662225

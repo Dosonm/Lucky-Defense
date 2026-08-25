@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8544e6d4ed145ff48b86ba1da5cbfddb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283422
+  packageName: 2D VScrolling Battle Backgrounds Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/2DVScrollingBattleBG/00_Demo/UISprite/Btn_ThemePrev.controller
+  uploadId: 662225

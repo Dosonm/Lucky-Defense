@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07756c54b1d49b7438007f07dce41864
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283422
+  packageName: 2D VScrolling Battle Backgrounds Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/2DVScrollingBattleBG/00_Demo/TestCharacter/TestChacter_UI.mat
+  uploadId: 662225

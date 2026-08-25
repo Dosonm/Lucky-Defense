@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: bff6b3c03bc91914e80fb589282fb045
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2415923785867518387
+    second: monsters_isolated_0
+  - first:
+      213: 4321884501189746265
+    second: monsters_isolated_1
+  - first:
+      213: -2361994646754199890
+    second: monsters_isolated_2
+  - first:
+      213: -7822422324388725468
+    second: monsters_isolated_3
+  - first:
+      213: 6692284925717161137
+    second: monsters_isolated_4
+  - first:
+      213: -7635789859747832261
+    second: monsters_isolated_5
+  - first:
+      213: -249933418036186427
+    second: monsters_isolated_6
+  - first:
+      213: -4401993595211647734
+    second: monsters_isolated_7
+  - first:
+      213: -6526507141444556120
+    second: monsters_isolated_8
+  - first:
+      213: 1128557117687439792
+    second: monsters_isolated_9
+  - first:
+      213: 9031700635939218278
+    second: monsters_isolated_10
+  - first:
+      213: 8355218157264742277
+    second: monsters_isolated_11
+  - first:
+      213: -7746255253127355690
+    second: monsters_isolated_12
+  - first:
+      213: 4195148568426579077
+    second: monsters_isolated_13
+  - first:
+      213: 5870091892309583778
+    second: monsters_isolated_14
+  - first:
+      213: 4019141864906249610
+    second: monsters_isolated_15
+  - first:
+      213: -6346174944560078570
+    second: monsters_isolated_16
+  - first:
+      213: -5075558203208403315
+    second: monsters_isolated_17
+  - first:
+      213: -8417212870750620500
+    second: monsters_isolated_18
+  - first:
+      213: 3151173380840934460
+    second: monsters_isolated_19
+  - first:
+      213: 7089035530025747558
+    second: monsters_isolated_20
+  - first:
+      213: 6895555152019961374
+    second: monsters_isolated_21
+  - first:
+      213: -6698552678142504003
+    second: monsters_isolated_22
+  - first:
+      213: 1779146823526995321
+    second: monsters_isolated_23
+  - first:
+      213: -3275340747335105233
+    second: monsters_isolated_24
+  - first:
+      213: 2592711055039650472
+    second: monsters_isolated_25
+  - first:
+      213: -8989817574588046181
+    second: monsters_isolated_26
+  - first:
+      213: 2152217562624594710
+    second: monsters_isolated_27
+  - first:
+      213: -740744617266209519
+    second: monsters_isolated_28
+  - first:
+      213: 4464143184720054909
+    second: monsters_isolated_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monsters_isolated_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1935
+        width: 143
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e13faed1ae87ed0800000000000000
+      internalID: -2415923785867518387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1944
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e5ea53e0b6afb30800000000000000
+      internalID: 4321884501189746265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_2
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1919
+        width: 268
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea677d61262883fd0800000000000000
+      internalID: -2361994646754199890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1651
+        width: 155
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d79b7475c217390800000000000000
+      internalID: -7822422324388725468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1651
+        width: 111
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4a215cea5cfdc50800000000000000
+      internalID: 6692284925717161137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1636
+        width: 155
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e53362499380690800000000000000
+      internalID: -7635789859747832261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_6
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1642
+        width: 122
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2347861ee088cf0800000000000000
+      internalID: -249933418036186427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_7
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1649
+        width: 161
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a057dddd52af8e2c0800000000000000
+      internalID: -4401993595211647734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1467
+        width: 134
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaa52275503d65a0800000000000000
+      internalID: -6526507141444556120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1462
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1af7c18b079af00800000000000000
+      internalID: 1128557117687439792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1462
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663a3da50eb075d70800000000000000
+      internalID: 9031700635939218278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_11
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1456
+        width: 150
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587a8ac65a2b3f370800000000000000
+      internalID: 8355218157264742277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_12
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1444
+        width: 119
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d227d183e5cf7490800000000000000
+      internalID: -7746255253127355690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1150
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5840e096569283a30800000000000000
+      internalID: 4195148568426579077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1089
+        width: 95
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a763089971c67150800000000000000
+      internalID: 5870091892309583778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_15
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1098
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8553a75b3cd6c730800000000000000
+      internalID: 4019141864906249610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1092
+        width: 179
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611230be28bdde7a0800000000000000
+      internalID: -6346174944560078570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_17
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1082
+        width: 185
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8671f4a4beff89b0800000000000000
+      internalID: -5075558203208403315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_18
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1089
+        width: 111
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca430188d7d003b80800000000000000
+      internalID: -8417212870750620500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 988
+        width: 118
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc0b68e773bbb20800000000000000
+      internalID: 3151173380840934460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 823
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664ce475140516260800000000000000
+      internalID: 7089035530025747558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 799
+        width: 118
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16b34560eee1bf50800000000000000
+      internalID: 6895555152019961374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_22
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 823
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3131664d5f903a0800000000000000
+      internalID: -6698552678142504003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 637
+        width: 178
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97557931c9cc0b810800000000000000
+      internalID: 1779146823526995321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 619
+        width: 94
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f258abc91f6ab82d0800000000000000
+      internalID: -3275340747335105233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 389
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaddd0c7f82bf320800000000000000
+      internalID: 2592711055039650472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 385
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94ad17cb80cd3380800000000000000
+      internalID: -8989817574588046181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_27
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 382
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613989368763edd10800000000000000
+      internalID: 2152217562624594710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_28
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 369
+        width: 130
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d909af1b858b5f0800000000000000
+      internalID: -740744617266209519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monsters_isolated_29
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 353
+        width: 129
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a48bf0392d3fd30800000000000000
+      internalID: 4464143184720054909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3f4b8f628527b304d830866767d4dc84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monsters_isolated_0: -2415923785867518387
+      monsters_isolated_1: 4321884501189746265
+      monsters_isolated_10: 9031700635939218278
+      monsters_isolated_11: 8355218157264742277
+      monsters_isolated_12: -7746255253127355690
+      monsters_isolated_13: 4195148568426579077
+      monsters_isolated_14: 5870091892309583778
+      monsters_isolated_15: 4019141864906249610
+      monsters_isolated_16: -6346174944560078570
+      monsters_isolated_17: -5075558203208403315
+      monsters_isolated_18: -8417212870750620500
+      monsters_isolated_19: 3151173380840934460
+      monsters_isolated_2: -2361994646754199890
+      monsters_isolated_20: 7089035530025747558
+      monsters_isolated_21: 6895555152019961374
+      monsters_isolated_22: -6698552678142504003
+      monsters_isolated_23: 1779146823526995321
+      monsters_isolated_24: -3275340747335105233
+      monsters_isolated_25: 2592711055039650472
+      monsters_isolated_26: -8989817574588046181
+      monsters_isolated_27: 2152217562624594710
+      monsters_isolated_28: -740744617266209519
+      monsters_isolated_29: 4464143184720054909
+      monsters_isolated_3: -7822422324388725468
+      monsters_isolated_4: 6692284925717161137
+      monsters_isolated_5: -7635789859747832261
+      monsters_isolated_6: -249933418036186427
+      monsters_isolated_7: -4401993595211647734
+      monsters_isolated_8: -6526507141444556120
+      monsters_isolated_9: 1128557117687439792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
